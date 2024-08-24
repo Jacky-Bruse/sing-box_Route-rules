@@ -1,0 +1,43 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "adjust.net.in",
+        "adjust.world",
+        "asia.ngame.proximabeta.com",
+        "f.totope.com",
+        "iegcom.com",
+        "ig-us-sdkapi.igamecj.com",
+        "intlgame.com",
+        "k.gjacky.com",
+        "mgl.lobby.igamecj.com",
+        "proximabeta.com",
+        "sg-dr.intlgame.com",
+        "sg.tdatamaster.com",
+        "tdatamaster.com",
+        "totope.bytes.tcdnos.com",
+        "totope.hwy.tcdnos.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".adjust.net.in",
+        ".adjust.world",
+        ".asia.ngame.proximabeta.com",
+        ".f.totope.com",
+        ".iegcom.com",
+        ".ig-us-sdkapi.igamecj.com",
+        ".intlgame.com",
+        ".k.gjacky.com",
+        ".mgl.lobby.igamecj.com",
+        ".proximabeta.com",
+        ".sg-dr.intlgame.com",
+        ".sg.tdatamaster.com",
+        ".tdatamaster.com",
+        ".totope.bytes.tcdnos.com",
+        ".totope.hwy.tcdnos.com"
+      ]
+    }
+  ],
+  "version": 1
+}
